@@ -14,11 +14,9 @@
         
         <p><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">بصه كمان</a></p>
     
-    <form action="action_page.php" method="get" id="next page.html">
-  االموضوع<input type="text" name="name">
+    
  
     
-<button type="submit" form="form1">إرسال</button><a href="next page.html"> next page</a>
 
 
 
